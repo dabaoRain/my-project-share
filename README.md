@@ -1,29 +1,7 @@
 # my-project-share
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ ### 2020-06-08发布内容 (Checkbox和Radio)
+   由于项目中需要按照UI图进行开发，就没有使用vant组件里面的Checkbox和Radio
+   1.自定义封装checkbox和radio
+   2.添加动画
+    
