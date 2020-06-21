@@ -1,10 +1,3 @@
-/*
- * @Author: shaohaibin 
- * @Date: 2020-06-21 16:55:44 
- * @Last Modified by: shaohaibin
- * @Last Modified time: 2020-06-21 17:33:54
- */
-
 ### 组件介绍
    >>> 针对项目中数字输入的限制
    >>> 技术栈
